@@ -9,5 +9,5 @@ Projeto simples de calculadora para desenvolver aprendizado em javascript
 
 # Layout web
 
-(https://github.com/BauruScript/Calculator/blob/main/calculadora.png)
+![Web](https://github.com/BauruScript/Calculator/blob/main/calculadora.png)
 
